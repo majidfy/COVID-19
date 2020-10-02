@@ -1,5 +1,5 @@
 %Load the map shapefile
-S=shaperead('Shapefiles\ODOT_County_Boundaries');
+S=shaperead('ODOT_County_Boundaries');
 
 %Load the dataset for all the counties for S,I and R values
 %Display the map
